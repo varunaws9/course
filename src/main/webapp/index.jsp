@@ -19,6 +19,3 @@ ONLINE TRAINING  </font>
  
 </body>
 </html>
-
-
-
